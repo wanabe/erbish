@@ -6,10 +6,10 @@ require 'erbish/version'
 Gem::Specification.new do |spec|
   spec.name          = "erbish"
   spec.version       = Erbish::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["wanabe"]
+  spec.email         = ["s.wanabe@gmail.com"]
+  spec.summary       = %q{ERB In SHell}
+  spec.description   = %q{Command executor with Erb}
   spec.homepage      = ""
   spec.license       = "MIT"
 
